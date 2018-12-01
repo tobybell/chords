@@ -1,0 +1,22 @@
+{
+  "name": "chords",
+  "version": "1.0.0",
+  "description": "Deep generative chord models.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tobybell/chords.git"
+  },
+  "author": "Toby Bell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobybell/chords/issues"
+  },
+  "homepage": "https://github.com/tobybell/chords#readme",
+  "dependencies": {
+    "ultimate-guitar-scraper": "^1.1.0"
+  }
+}
